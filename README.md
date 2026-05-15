@@ -86,7 +86,7 @@ python main.py
 
 ### Runge-Kutta 2nd Order - Velocity vs Position
 
-![Runge Kutta Time Step Comparison](images/runge_kutta_2_time_steps.png)
+![Runge Kutta Time Step Comparison](images/runge_kutta_2_velocity_position.png)
 
 ---
 
