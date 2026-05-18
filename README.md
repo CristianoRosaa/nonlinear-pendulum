@@ -1,5 +1,7 @@
 # Nonlinear Pendulum Simulation
 
+![Analytical Phase Diagram](images/analytic_phase_diagram.png)
+
 Numerical simulation of the nonlinear pendulum using Euler's Method and the 2nd order Runge-Kutta Method.
 
 This project compares numerical solutions and phase-space behavior for different initial conditions and time steps.
